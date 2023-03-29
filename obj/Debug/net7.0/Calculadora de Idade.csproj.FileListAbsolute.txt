@@ -1,0 +1,30 @@
+C:\Users\33984578865\Desktop\Calculadora de Idade\obj\Debug\net7.0\Calculadora de Idade.csproj.AssemblyReference.cache
+C:\Users\33984578865\Desktop\Calculadora de Idade\obj\Debug\net7.0\Calculadora de Idade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\33984578865\Desktop\Calculadora de Idade\obj\Debug\net7.0\Calculadora de Idade.AssemblyInfoInputs.cache
+C:\Users\33984578865\Desktop\Calculadora de Idade\obj\Debug\net7.0\Calculadora de Idade.AssemblyInfo.cs
+C:\Users\33984578865\Desktop\Calculadora de Idade\obj\Debug\net7.0\Calculadora de Idade.csproj.CoreCompileInputs.cache
+C:\Users\33984578865\Desktop\Calculadora de Idade\bin\Debug\net7.0\Calculadora de Idade.exe
+C:\Users\33984578865\Desktop\Calculadora de Idade\bin\Debug\net7.0\Calculadora de Idade.deps.json
+C:\Users\33984578865\Desktop\Calculadora de Idade\bin\Debug\net7.0\Calculadora de Idade.runtimeconfig.json
+C:\Users\33984578865\Desktop\Calculadora de Idade\bin\Debug\net7.0\Calculadora de Idade.dll
+C:\Users\33984578865\Desktop\Calculadora de Idade\bin\Debug\net7.0\Calculadora de Idade.pdb
+C:\Users\33984578865\Desktop\Calculadora de Idade\obj\Debug\net7.0\Calculadora de Idade.dll
+C:\Users\33984578865\Desktop\Calculadora de Idade\obj\Debug\net7.0\refint\Calculadora de Idade.dll
+C:\Users\33984578865\Desktop\Calculadora de Idade\obj\Debug\net7.0\Calculadora de Idade.pdb
+C:\Users\33984578865\Desktop\Calculadora de Idade\obj\Debug\net7.0\Calculadora de Idade.genruntimeconfig.cache
+C:\Users\33984578865\Desktop\Calculadora de Idade\obj\Debug\net7.0\ref\Calculadora de Idade.dll
+C:\Users\Paulo Gonçalves\Desktop\Calculadora de Idade\obj\Debug\net7.0\Calculadora de Idade.csproj.AssemblyReference.cache
+C:\Users\Paulo Gonçalves\Desktop\Calculadora de Idade\obj\Debug\net7.0\Calculadora de Idade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo Gonçalves\Desktop\Calculadora de Idade\obj\Debug\net7.0\Calculadora de Idade.AssemblyInfoInputs.cache
+C:\Users\Paulo Gonçalves\Desktop\Calculadora de Idade\obj\Debug\net7.0\Calculadora de Idade.AssemblyInfo.cs
+C:\Users\Paulo Gonçalves\Desktop\Calculadora de Idade\obj\Debug\net7.0\Calculadora de Idade.csproj.CoreCompileInputs.cache
+C:\Users\Paulo Gonçalves\Desktop\Calculadora de Idade\obj\Debug\net7.0\Calculadora de Idade.dll
+C:\Users\Paulo Gonçalves\Desktop\Calculadora de Idade\obj\Debug\net7.0\refint\Calculadora de Idade.dll
+C:\Users\Paulo Gonçalves\Desktop\Calculadora de Idade\obj\Debug\net7.0\Calculadora de Idade.pdb
+C:\Users\Paulo Gonçalves\Desktop\Calculadora de Idade\bin\Debug\net7.0\Calculadora de Idade.exe
+C:\Users\Paulo Gonçalves\Desktop\Calculadora de Idade\bin\Debug\net7.0\Calculadora de Idade.deps.json
+C:\Users\Paulo Gonçalves\Desktop\Calculadora de Idade\bin\Debug\net7.0\Calculadora de Idade.runtimeconfig.json
+C:\Users\Paulo Gonçalves\Desktop\Calculadora de Idade\bin\Debug\net7.0\Calculadora de Idade.dll
+C:\Users\Paulo Gonçalves\Desktop\Calculadora de Idade\bin\Debug\net7.0\Calculadora de Idade.pdb
+C:\Users\Paulo Gonçalves\Desktop\Calculadora de Idade\obj\Debug\net7.0\Calculadora de Idade.genruntimeconfig.cache
+C:\Users\Paulo Gonçalves\Desktop\Calculadora de Idade\obj\Debug\net7.0\ref\Calculadora de Idade.dll
